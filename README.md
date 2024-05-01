@@ -11,7 +11,7 @@
 колледже, был ментором для некоторых людей (все они прошли путь от полного 0 до самостоятельной разработки на React и достигли отличных результатов в разработке)
 
 ## Технологии
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss,gulp,js,ts,react,redux,nextjs,nodejs,express,prisma,php,mysql,postgresql,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,gulp,js,ts,react,redux,nextjs,nodejs,express,php,mysql,postgresql,git)](https://skillicons.dev)
 ## Инструменты
 [![My Skills](https://skillicons.dev/icons?i=photoshop,figma,postman,supabase,vscode,webstorm)](https://skillicons.dev)
 ## Социальные сети
