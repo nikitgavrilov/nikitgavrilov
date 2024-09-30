@@ -14,10 +14,4 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,scss,gulp,js,ts,react,redux,nextjs,nodejs,express,php,mysql,postgresql,git)](https://skillicons.dev)
 ## Инструменты
 [![My Skills](https://skillicons.dev/icons?i=photoshop,figma,postman,supabase,vscode,webstorm)](https://skillicons.dev)
-## Социальные сети
-<a href="https://t.me/nikitgavrilov">
-  <img src="https://camo.githubusercontent.com/6badd5effe52bef2c64557fa8883104fd1fd80065c2feda39fd2b9ac4a858bae/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f323131312f323131313634362e706e67" width="50px"/>
-</a>
-<a href="https://vk.com/nikitgav">
-  <img src="https://camo.githubusercontent.com/00c90af3e47852007e89e41dc29ab2f432d03cfb239ab27caefa80d6367d2756/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3134352f3134353831332e706e67" width="50px"/>
-</a>
+
